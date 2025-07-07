@@ -1,4 +1,4 @@
-<img scr="studio-ghibli-sticker.gif" width="150" />
+<img src="https://raw.githubusercontent.com/username/repo-name/main/studio-ghibli-sticker.gif" width="150" />
 
 <h2 align="center">Hi 👋, I'm Tiba</h2>
 
