@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Tiba</h2>
 
-<!--
-**Tibatech1/Tibatech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Pharmacy Graduate | 💻 Tech & Digital Student of CS50s
+📍 Based in Iraq 
+</p>
 
-Here are some ideas to get you started:
+---
+###learning 🌱
+- Learning Everything
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tiba-hussain-06094b30a/)
+- [Instagram](https://instagram.com/_.tabii._)
+- [Email](mailto:tibahussain5@gmail.com)
