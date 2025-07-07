@@ -1,3 +1,5 @@
+<img src="studio-ghibli-sticker.gif" width="150" />
+
 <h2 align="center">Hi 👋, I'm Tiba</h2>
 
 <p align="center">
