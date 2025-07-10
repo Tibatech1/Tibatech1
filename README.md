@@ -12,7 +12,5 @@
 - Learning Everything
 ---
 
-### 📫 Let's Connect:
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tiba-hussain-06094b30a/)
-- [Instagram](https://instagram.com/_.tabii._)
+### 📫 Connect:
 - [Email](mailto:tibahussain5@gmail.com)
